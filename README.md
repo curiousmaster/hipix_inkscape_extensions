@@ -3,6 +3,10 @@ Inkscape extensions
 ## Requirements
 Inkscape 1.* or higher
 
+## Externsion
+### Starburst
+<img align=right src="images/examples/inkstitch_logo_screenshot.png">
+
 ## Installation
 
 Copy the contents of `src/` to your Inkscape `extensions/` folder.
