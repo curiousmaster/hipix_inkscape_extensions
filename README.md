@@ -5,7 +5,7 @@ Inkscape 1.* or higher
 
 ## Externsion
 ### Starburst
-<img align=right width=100 src="images/starburst.jpg">
+<img align=right width=100 src="images/starburst.jpg"><p>
 
 ## Installation
 
