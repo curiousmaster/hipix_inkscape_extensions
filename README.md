@@ -19,4 +19,4 @@ Typical locations include:
 
 ## Buy me a coffee
 If you like my extensions please feel free to sponsor a cup of coffee, or two....
-<a href=https://buymeacoffee.com/curiousmaster><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25"></a>               
+<a href=https://buymeacoffee.com/curiousmaster><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25" target="_own"></a>               
