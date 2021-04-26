@@ -18,5 +18,4 @@ Typical locations include:
 * Windows - `C:\Program Files\Inkscape\share\inkscape\extensions`
 
 ## Buy me a coffee
-If you like my extensions please feel free to sponsor a cup of coffee, or two.
-![](https://buymeacoffee.com/curiousmaster)                
+If you like my extensions please feel free to sponsor a cup of coffee, or two <a href=https://buymeacoffee.com/curiousmaster>here</a>.                
