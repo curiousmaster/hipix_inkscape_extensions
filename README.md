@@ -5,7 +5,7 @@ Inkscape 1.* or higher
 
 ## Externsion
 ### Starburst
-<img align=right src="images/examples/inkstitch_logo_screenshot.png">
+<img align=right src="images/starburst.jpg">
 
 ## Installation
 
