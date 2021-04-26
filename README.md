@@ -5,7 +5,7 @@ Inkscape 1.* or higher
 
 ## Externsion
 ### Starburst
-![starburst](https://github.com/curiousmaster/hipix_inkscape_extensions/blob/main/images/starburst.jpg?raw=true | width=200)
+![starburst](https://github.com/curiousmaster/hipix_inkscape_extensions/blob/main/images/starburst.jpg?raw=true&s=200)
 
 ## Installation
 
