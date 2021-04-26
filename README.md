@@ -3,7 +3,7 @@ Inkscape extensions
 ## Requirements
 Inkscape 1.* or higher
 
-#Installing:
+## Installation
 
 Simply copy all the files in the folder "Extensions" of Inkscape
 
