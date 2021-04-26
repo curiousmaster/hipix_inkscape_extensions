@@ -5,18 +5,10 @@ Inkscape 1.* or higher
 
 ## Installation
 
-Simply copy all the files in the folder "Extensions" of Inkscape
+Copy the contents of `src/` to your Inkscape `extensions/` folder.
 
->Windows ) "C:\<...>\Inkscape\share\extensions"
+Typical locations include:
 
->Linux ) "/usr/share/inkscape/extensions"
-
->Mac ) "/Applications/Inkscape.app/Contents/Resources/extensions"
-
-
-for unix (& mac maybe) change the permission on the file:
-
->chmod 755 for all the *.py files
-
->chmod 644 for all the *.inx files
-
+* OS X - `/Applications/Inkscape.app/Contents/Resources/extensions`
+* Linux - `/usr/share/inkscape/extensions`
+* Windows - `C:\Program Files\Inkscape\share\inkscape\extensions`
