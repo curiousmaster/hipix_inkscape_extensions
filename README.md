@@ -18,5 +18,5 @@ Typical locations include:
 * Windows - `C:\Program Files\Inkscape\share\inkscape\extensions`
 
 ## Buy me a coffee
-If you like my extensions please feel free to sponsor a cup of coffee, or two....
-<a href="https://buymeacoffee.com/curiousmaster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25"></a>               
+If you like my extensions please feel free to sponsor a cup of coffee, or two over at
+<a href="https://buymeacoffee.com/curiousmaster" target="_blank">Buy Me A Coffee<br><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25"></a>               
