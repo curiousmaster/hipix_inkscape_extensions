@@ -16,3 +16,7 @@ Typical locations include:
 * OS X - `/Applications/Inkscape.app/Contents/Resources/extensions`
 * Linux - `/usr/share/inkscape/extensions`
 * Windows - `C:\Program Files\Inkscape\share\inkscape\extensions`
+
+## Buy me a coffee
+If you like my extensions please feel free to sponsor a cup of coffee, or two.
+![](https://buymeacoffee.com/curiousmaster)                
