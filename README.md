@@ -8,6 +8,10 @@ Inkscape 1.* or higher
 FlashBurst will render a random flashburst background based on parameters.
 ![](https://github.com/curiousmaster/hipix_inkscape_extensions/blob/main/images/flashburst.jpg?raw=true&s=100)
 
+### Starshine
+Starshine will render a random starshine background based on parameters.
+![](https://github.com/curiousmaster/hipix_inkscape_extensions/blob/main/images/starshine.jpg?raw=true&s=100)
+
 ## Installation
 
 Copy the `HiPiX` from `extensions/` to your Inkscape `extensions/` folder.
