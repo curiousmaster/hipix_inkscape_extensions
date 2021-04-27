@@ -6,7 +6,7 @@ Inkscape 1.* or higher
 ## Extensions
 ### Starburst
 Starburst will render a random starburst background based on parameters.
-![](https://github.com/curiousmaster/hipix_inkscape_extensions/blob/main/images/starburst.jpg?raw=true|width=100)
+![](https://github.com/curiousmaster/hipix_inkscape_extensions/blob/main/images/starburst.jpg?raw=true&s=100)
 
 ## Installation
 
