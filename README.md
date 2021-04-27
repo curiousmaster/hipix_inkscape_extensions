@@ -14,7 +14,7 @@ Starshine will render a random starshine background based on parameters.
 
 ## Installation
 
-Copy the `HiPiX` from `extensions/` to your Inkscape `extensions/` folder.
+Copy the `HiPiX` directory from `extensions/` to your Inkscape `extensions/` folder.
 
 Typical locations include:
 
