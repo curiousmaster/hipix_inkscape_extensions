@@ -17,7 +17,7 @@ Typical locations include:
 * OS X - `/Applications/Inkscape.app/Contents/Resources/extensions`
 * Linux - `/usr/share/inkscape/extensions`
 * Windows - `C:\Program Files\Inkscape\share\inkscape\extensions`
-* Windows (alternative) - `%APPDATA%\Roaming\Inkscape\share\extensions`
+* Windows (alternative) - `%APPDATA%\inkscape\extensions`
 
 ## Buy me a coffee <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25">
 If you like my extensions please feel free to sponsor a cup of coffee, or two over at
