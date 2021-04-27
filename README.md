@@ -10,7 +10,7 @@ Starburst will render a random starburst background based on parameters.
 
 ## Installation
 
-Copy the contents of `src/` to your Inkscape `extensions/` folder.
+Copy the `HiPiX` from `extensions/` to your Inkscape `extensions/` folder.
 
 Typical locations include:
 
